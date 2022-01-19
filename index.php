@@ -25,6 +25,9 @@
 
 <body>
     <section class="section">
+        <h1 class="title">La cuisine</h1>
+        <h2 class="subtitle"><a href="https://kitchen.planner.ikea.com/planner/#/fr/fr/planner?rangeEnv=ProdRange&environmentStage=main&projectId=E8F608A6-32A5-4071-AEE0-81CA8AD71829">Voir le plan 3D</a></h2>
+        
         <?php
 
         $prixtotal = 0;
