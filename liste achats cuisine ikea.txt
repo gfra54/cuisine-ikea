@@ -1,0 +1,233 @@
+
+2 - Colonne haute du four
+1         METOD ME cais surm ref/cg 60x60x40 blanc     402.055.37                     14,8/14,8          25,00         25,00
+1         METOD ME cais arm ref/fr 60x60x200 blanc     902.135.68                     49,0/49,0          74,00         74,00
+1         MAXIMERA MA N tir, haut 60x60 blanc I        302.850.25                     7,0/7,0            50,00         50,00
+1         MAXIMERA MA N tir moy 60x60 blanc I          602.850.38                     6,8/6,8            42,00         42,00
+1         VOXTORP pte 60x80 blanc mat                  402.731.83                     7,8/7,8            55,00         55,00
+1         VOXTORP fac tir 60x40 blanc mat              702.731.91                    3,8/3,8             31,00         31,00
+1         VOXTORP fac tir 60x20 blanc mat              902.731.90                     1,9/1,9            22,00         22,00
+1         ANRATTA four air pulse acier inoxydable      604.117.20                    33,2/33,2          449,00        449,00
+1         UTRUSTA NN charn av amort int cui 110 ° 2pces 805.248.82                    0,2/0,2             10,00         10,00
+1         UTRUSTA tabl fixe+grille aer 60x60 blanc     902.135.73                    4,0/4,0              9,00          9,00
+
+3 - Meuble 3 tiroirs (largeur 40cm)
+1         METOD ME str el bs 40x60x80 blanc            802.134.32                    16,0/16,0           26,00         26,00
+1         MAXIMERA MA N tir, haut 40x60 blanc I        002.850.22                    5,7/5,7             42,00         42,00
+1         MAXIMERA MA N tir moy 40x60 blanc I          002.850.36                    5,6/5,6             28,00         28,00
+2         MAXIMERA MA N tir, bas 40x60 blanc I         302.850.30                    5,2/10,3            22,00         44,00
+1         UTRUSTA face tir, bas 40 blanc               802.214.51                    0,3/0,3              5,00          5,00
+1         VOXTORP fac tir 40x40 blanc mat              302.731.88                    2,6/2,6             30,00         30,00
+2         VOXTORP fac tir 40x20 blanc mat              702.731.86                    1,3/2,5             17,00         34,00
+
+4 - Meuble 3 tiroirs (largeur 60cm)
+1         METOD ME str el bs 60x60x80 blanc            502.056.26                    17,5/17,5           31,00         31,00
+1         MAXIMERA MA N tir, haut 60x60 blanc I        302.850.25                    7,0/7,0             50,00         50,00
+1         MAXIMERA MA N tir moy 60x60 blanc I          602.850.38                    6,8/6,8             42,00         42,00
+2         MAXIMERA MA N tir, bas 60x60 blanc I         902.850.32                    6,3/12,5            32,00         64,00
+1         UTRUSTA face tir, bas 60 blanc               402.046.51                    0,5/0,5              6,00          6,00
+1        VOXTORP fac tir 60x40 blanc mat               702.731.91                    3,8/3,8             31,00         31,00
+2        VOXTORP fac tir 60x20 blanc mat               902.731.90                    1,9/3,8             22,00         44,00
+
+5 - Meuble sous plaque
+1        METOD ME el bs four/ev enc 60x60x80 blanc     702.135.69                    17,8/17,8           33,00         33,00
+2        MAXIMERA MA N tir, haut 60x60 blanc I         302.850.25                    7,0/14,0            50,00        100,00
+2        VOXTORP fac tir 60x40 blanc mat               702.731.91                    3,8/7,7             31,00         62,00
+1        MATMASSIG tab cui ind 59 IKEA 300 noir        104.670.93                    13,0/13,0          279,00        279,00
+1        NYTTIG separateur table cuisson 60 blanc      102.432.96                    1,9/1,9             20,00         20,00
+
+6 - Meuble une porte (largeur 30cm)
+1        METOD ME str el bs 30x37x80 blanc             204.171.49                    9,4/9,4             27,00         27,00
+1        VOXTORP pte 30x80 blanc mat                   104.188.99                    3,8/3,8             33,00         33,00
+1        UTRUSTA tbl 30x37 blanc 2pces                 304.173.42                    2,4/2,4              6,00          6,00
+1        UTRUSTA NN charn av amort int cui 110 ° 2pces 805.248.82                    0,2/0,2             10,00         10,00
+
+7 - Meuble 2 tiroirs (largeur 40)
+1        METOD ME str el bs 40x37x80 blanc                    302.056.32                       10,5/10,5           24,00         24,00
+
+2        MAXIMERA MA N Ur, haut 40x37 blanc 1            202.850.21                     4,0/7,9              40,00         80,00
+
+2        VOXTORP fac tir 40x40 blanc mat                 302,731.88                      2,6/5,2             30,00         60,00
+
+8 - Meuble tiroir coulissant (largeur 30cm)
+
+1         METOD ME str el bs 30x60x80 blanc              504.171,95                      15,2/15,2           27,00         27,00
+
+1         VOXTORP pte 30x80 blanc mat                    104.188.99                      3,8/3,8             33,00         33,00
+
+1         MAXIMERA MA amen int coullssant 30 1           504.170.39                      8,3/8,3             60,00         60,00
+
+
+
+9 - Meuble sous évier
+
+1           METOD ME el bs fouriev enc 60x60x80 blanc     702.135.69                      17,8/17,8           33,00         33,00
+
+1           MAXIMERA MA N tir, bas 60x37 blanc 1          102.850.31                      4,3/4,3             32,00         32,00
+
+1          MAXIMERA MA N tir, haut 60x45 blanc 1         602.850.24                      6,2/6,2             48,00         48,00
+
+1          UTRUSTA face br, bas 60 blanc                 402.046.51                      0,5/0,5              6,00          6,00
+
+1         VOXTORP fac tir 60x10 blanc mat 2pces         102.731.89                      1,7/1,7             28,00         28,00
+
+1          VOXTORP fac tir 60x40 blanc mat               702.731.91                      3,8/3,8             31,00         31,00
+
+1          VOXTORP fac tir 60x20 blanc mat               902.731.90                      1,9/1,9             22,00         22,00
+
+1         19253714 HAVSEN evier, face avant visible 62x48 blanc  203.592.29                      21,2/21,2          169,00        169,00
+1         ALts1AREN N mitig couleur acier inox          004.551.61                      2,0/2,0             69,00         69,00
+3          HALLBAR poub couv 10 I gris clair            803.980.58                      0,8/2,4              7,99         23,97
+
+1          HALLBAR N supp poub tri 60 blanc             804.228.69                      0,9/0,9             20,00         20,00
+1          HALLBAR poubelle av couv pr dechets bio 10 l gr 804.338.82                   0,7/0,7              5,99          5,99 
+
+1         LILLVIKEN siph/bonde 1 b                     103.115.39                      0,8/0,8             17,00         17,00
+
+1         LILLVIKEN bouch                              203.178.52                      0,1/0,1              4,99          4,99
+
+1         UTRUSTA barre de connexion pr faces I        303.122.36                      1,3/1,3             13,00         13,00
+
+1           UTRUSTA ouverture pression electrique       702.272.36                      0,8/0,8            110,00        110,00
+
+
+
+10 - Meuble tiroir coulissant (largeur 20cm)
+
+1         METOD ME str el bs 20x60x80 blanc           302.125.62                      14,2/14,2           24,00         24,00
+
+1         VOXTORP pte 20x80 blanc mat                 302.731.74                      2,6/2,6             27,00         27,00
+
+1          MAXIMERA MA amen int coulissant 20 I        202.972.79                      6,7/6,7             50,00         50,00
+
+
+11 - Meuble haut une porte (largeur 40cm, hauteur 60cm)
+
+1         METOD ME str el mur 40x37x60 blanc           102.055.34                     9,9/9,9             19,00         19,00
+
+1         VOXTORP pte 40x60 blanc mat                  602.731.77                     3,8/3,8             31,00         31,00
+
+1         UTRUSTA tbl 40x37 blanc 2pces                402.056.22                     3,2/3,2              6,00          6,00
+
+1         UTRUSTA NN charn av amort int cui 110 0 2pces 805.248.82                    0,2/0,2             10,00         10,00
+
+
+
+12 - Meuble haut une porte (largeur 60cm, hauteur 60cm)
+
+1          METOD ME str el mur 60x37x60 blanc          802.055.35                     12,3/12,3           24,00         24,00
+
+1          VOXTORP pte 60x60 blanc mat                 602.731.82                     5,6/5,6             46,00         46,00
+1          UTRUSTA tbl 60x37 blanc 2pces               102.056.14                     5,0/5,0              9,00          9,00
+1          UTRUSTA NN charn av amort int cui 110 ° 2pces 805.248.82                   0,2/0,2             10,00         10,00
+
+
+13 - Meuble haut une porte (largeur 60cm, hauteur 60cm)
+ 
+
+1          METOD ME str el mur 60x37x60 blanc          802.055.35                     12,3/12,3           24,00         24,00
+1          VOXTORP pte 60x60 blanc mat                 602.731.82                     5,6/5,6             46,00         46,00
+1          UTRUSTA tbl 60x37 blanc 2pces               102,056.14                     5,0/5,0              9,00          9,00
+1          UTRUSTA NN charn av amort int cui 110 ° 2pces 805,248.82 
+0,2/0,2             10,00         10,00
+
+ 
+14 - Meuble haut une porte (largeur 40cm, hauteur 40cm)
+
+1          METOD ME str el mur 40x37x40 blanc          102.055.29                     7,7/7,7             16,00         16,00
+
+
+1          VOXTORP fac tir 40x40 blanc mat               302.731.88                                        30,00         30,00
+1         UTRUSTA charni-aM/pte horlz blanc 2pces       504.624.80                                        34,00         34,00
+
+
+15 - Meuble haut une porte (largeur 60cm, hauteur 40cm)
+1                ME str el mur 60x37x40 blanc           302.055,33                     9,8/9,8            20,00         20,00
+1         VOXTORP Mc Ur 60x40 blanc mat                 702.731.91                     3,8/3,8            31,00         31,00
+1         STROMUNJE eclair plan tray LED 60 blanc       003.430.41                     0,5/0,5            64,99         64,99
+1         UTRUSTA tham+amipte horiz blanc 2pces         504.624.80                     1,8/1,8            34,00         34,00
+
+16 - Meuble haut une porte (largeur 60cm, hauteur 40cm)
+
+1         METOD ME str el mur 60x37x40 blanc            302.055.33                     9,8/9,8            20,00         20,00
+1         VOXTORP fac tir 60x40 blanc mat               702.731,91                     3,8/3,8            31,00         31,00
+1         STROMLIN)E eclair plan tray LED 60 blanc      003.430,41                     0,5/0,5            64,99         64,99
+1         UTRUSTA charn+am/pte horiz blanc 2pces        504.624.80                     1,8/1,8            34,00         34,00
+
+
+17 - Meuble haut une porte (largeur 40cm, hauteur 40cm)
+
+1         METOD ME str el mur 40x37x40 blanc            102.055.29                    7,7/7,7             16,00         16,00
+1         VOXTORP fac tir 40x40 blanc mat               302.731.88                    2,6/2,6             30,00         30,00
+1         UTRUSTA cham+am/pte horiz blanc 2pces         504.624.80                    1,8/1,8             34,00         34,00
+
+
+18 - Meuble haut une porte (largeur 60cm, hauteur 40cm)
+
+1         METOD ME str el mur 60x37x40 blanc           302.055.33                     9,8/9,8             20,00         20,00
+1         VOXTORP fac tir 60x40 blanc mat              702.731.91                     3,8/3,8             31,00         31,00
+1         STROMLINJE éclair plan tray LED 60 blanc     003.430.41                     0,5/0,5             64,99         64,99
+1         UTRUSTA charn+am/pte horiz blanc 2pces       504.624.80                     1,8/1,8             34,00         34,00
+
+19 - Meuble haut une porte (largeur 60cm, hauteur 40cm)
+
+1         METOD ME str el mur 60x37x40 blanc           302.055.33                     9,8/9,8             20,00         20,00
+1         VOXTORP fac tir 60x40 blanc mat              702.731.91                     3,8/3,8             31,00         31,00
+1         STROMLINJE éclair plan tray LED 60 blanc     003.430.41                     0,5/0,5             64,99         64,99
+1         UTRUSTA charn+am/pte horiz blanc 2pces       504.624.80                     1,8/1,8             34,00         34,00
+
+21 - Meuble haut une porte (largeur 40cm, hauteur 60cm)
+1         METOD ME str el mur 40x37x60 blanc           102.055.34                     9,9/9,9             19,00         19,00
+1         VOXTORP pte 40x60 blanc mat                  602.731.77                     3,8/3,8             31,00         31,00
+1         STROMLINJE éclair plan tray LED 40 blanc     803.430.42                     0,3/0,3             49,99         49,99
+1         UTRUSTA tbl 40x37 blanc 2pces                402.056.22                    3,2/3,2              6,00           6,00
+1         UTRUSTA NN charn av amort int cui 110 ° 2pces 805.248.82                   0,2/0,2              10,00         10,00
+
+22 - Meuble haut une porte (largeur 60cm, hauteur 60cm)
+
+1         METOD ME str el mur 60x37x60 blanc           802.055.35                    12,3/12,3            24,00         24,00
+
+1        VOXTORP pte 60x60 blanc mat                  602.731.82                    5,6/5,6             46,00          46,00
+
+1       UTRUSTA tbl 60x37 blanc 2pces                102.056.14                    5,0/5,0              9,00          9,00
+
+1      UTRUSTA NN charn av amort int cui 110 ° 2pces 805.248.82                   0,2/0,2              10,00         10,00
+
+
+23 - Meuble hotte
+
+1          METOD ME str el mur 60x37x60 blanc           802.055.35                    12,3/12,3           24,00         24,00 
+
+1          VOXTORP pte 60x60 blanc mat                  602.731.82                    5,6/5,6             46,00         46,00 
+
+1          UTDRAG NN hotte aspirante integree 60 inox   103.891.42                    8,8/8,8            129,00        129,00 
+
+1          IRSTA éclair plan tray LED 60 opalin         204.069.47                    2,9/2,9             70,00         70,00 
+
+1          NYTTIG TUB 150 tuy evac flex hot asp         902.502.59                    0,8/0,8             20,00         20,00 
+
+1          UTRUSTA tbl 60x37 blanc 2pces                102.056.14                    5,0/5,0              9,00          9,00 
+1          UTRUSTA NN charn av amort int cui 110 ° 2pces 805.248.82                     0,2/0,2             10,00         10,00
+
+Rail de suspension
+
+7           METOD ME rail susp 200acler zingue            602,056,64    1,8/12,6            18,00        126,00
+
+
+Pieds et plinthes
+
+3          FORBATTRA plint 220x8 blanc mat               504.176,66                     0,8/2,4             22,00         66,00 
+4         METOD ME pied 8 4pces                         402.055.99                     0,3/1,2             10,00         40,00
+
+
+Panneaux de finition
+5        FORBATTRA pane let fln 39x86 blanc mat        604.176.61                     4,2/21,2            22,00        110,00
+1        FORBATTRA penn let fin 39x240 blanc met       804.176.60                     11,3/11,3           87,00         87,00
+
+
+
+Eclairages
+3        FORNIMI■iA N cable raccordement 3.5 m         504,468.81                     0,2/0,5              8,00         24,00
+3        STYRBAR N2 telecommande blanc                 304.883.63                     0,1/0,3              9,99         29,97
+3        TRXDFR1 transfo elec connecte 30 W grls       603.426.56                     0,3/0,9             30,00         90,00
+
