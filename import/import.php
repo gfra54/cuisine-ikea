@@ -21,7 +21,7 @@ $ps = [];
 foreach ($lines as $line) {
     $line = trim($line);
     if ($pid = getPid($line)) {
-        $p = ['pid' => $pid];
+        $p = ['pid' => $pid,'id'=>uniqid()];
         $p['nom'] = getNom($line);
         $p['product'] = getProduct($p);
         $p['groupe'] = $groupe;
@@ -44,12 +44,12 @@ foreach($ps as $p) {
         } else {
             $nom = $p['groupe'];
         }
-        $groups[$p['groupe']]=['nom'=>$nom,'ps'=>[],'total'=>0];
+        $groups[$p['groupe']]=['id'=>uniqid(),'nom'=>$nom,'ps'=>[],'total'=>0];
     }
     $groups[$p['groupe']]['ps'][]=$p;
     $groups[$p['groupe']]['total']+=$p['qte'];
 }
-file_put_contents('ikea.json', json_encode(array_values($groups), JSON_PRETTY_PRINT));
+file_put_contents('../ikea.json', json_encode(array_values($groups), JSON_PRETTY_PRINT));
 if(php_sapi_name() == 'cli') {
     echo count($ps) . ' lignes' . PHP_EOL;
 }
@@ -118,7 +118,7 @@ function getProduct($query)
     }
     foreach ($query as $term) {
         $url = 'https://sik.search.blue.cdtapps.com/fr/fr/search-box?q=' . explode(' ',str_replace('.', '', $term))[0];
-        $cache = './cache/' . sha1($url);
+        $cache = '../cache/' . sha1($url);
         if (!file_exists($cache)) {
             $content = file_get_contents($url);
             file_put_contents($cache, $content);
