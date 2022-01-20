@@ -1,14 +1,27 @@
 <?php include 'lib.php';
 cors();
 
-$ret=false;
+$w = $_GET['w'];
+$ret = false;
 
-if(isset($_POST['achat'])) {
-    $ret = setAchat($_POST['id'], $_POST['achat']);
-}
+if ($w == 'groupes') {
+    $ret = charger('ikea.json');
+} else {
+    if (isset($_POST['achat'])) {
+        $ret = setAchat($_POST['id'], $_POST['achat']);
+    } else {
+        if ($w == 'achats') {
+            $ret = charger('data/achats.json');
+        }
+    }
 
-if(isset($_POST['reception'])) {
-    $ret = setReception($_POST['id'], $_POST['reception']);
+    if (isset($_POST['reception'])) {
+        $ret = setReception($_POST['id'], $_POST['reception']);
+    } else {
+        if ($w == 'receptions') {
+            $ret = charger('data/receptions.json');
+        }
+    }
 }
 
 

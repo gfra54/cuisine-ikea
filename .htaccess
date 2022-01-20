@@ -1,5 +1,2 @@
-Header add Access-Control-Allow-Origin "*"
-Header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
-
 RewriteEngine on
-RewriteRule ^[^\.]+$ action.php [L,QSA]
+RewriteRule ^([^\.]+)$ action.php?w=$1 [L,QSA]
