@@ -7,6 +7,13 @@ $ret = false;
 if ($w == 'groupes') {
     $ret = charger('ikea.json');
 } else {
+    if (isset($_POST['meta'])) {
+        $ret = setMeta($_POST['id'], $_POST['meta']);
+    } else {
+        if ($w == 'metas') {
+            $ret = charger('data/metas.json');
+        }
+    }
     if (isset($_POST['achat'])) {
         $ret = setAchat($_POST['id'], $_POST['achat']);
     } else {

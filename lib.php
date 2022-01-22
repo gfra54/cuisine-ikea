@@ -31,6 +31,18 @@ function cors()
 }
 
 
+function setMeta($id, $meta)
+{
+    $file = './data/metas.json';
+    $content = charger($file);
+
+    $content[$id] = $meta;
+
+    if (sauver($file, $content)) {
+        return $content;
+    }
+}
+
 function setAchat($id, $achat)
 {
     $file = './data/achats.json';
